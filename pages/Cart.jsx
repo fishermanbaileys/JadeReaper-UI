@@ -23,13 +23,6 @@ const Title = styled.h1`
     
 `;
 
-const Container2 = styled.div`
-
-`;
-
-const Container3 = styled.div`
-
-`;
 
 
 
